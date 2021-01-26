@@ -1,0 +1,5 @@
+node_modules
+*.log
+*.db
+server/config.json
+database/import/raw
