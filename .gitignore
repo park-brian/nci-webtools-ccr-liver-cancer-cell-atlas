@@ -3,3 +3,4 @@ node_modules
 *.db
 server/config.json
 database/import/raw
+.DS_Store
